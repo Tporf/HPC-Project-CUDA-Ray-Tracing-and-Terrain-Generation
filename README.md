@@ -40,8 +40,3 @@
 - Use NVIDIA Nsight Systems and Nsight Compute to profile kernels.
 - Identify bottlenecks such as memory bandwidth, occupancy, and divergent branches.
 - Optimize kernel launch configuration, memory access patterns, and use asynchronous data transfers.
-
----
-
-## Example CUDA Ray Tracing Kernel (Simplified)
-
